@@ -14,7 +14,7 @@ export const Header = () => {
         </div>
 
         <div className="pb-12 md:pb-0">
-            <img src="../public/selfie.webp" alt="Selfie image" className="lg:w-[350px] lg:h-[350px] md:w-[220px] md:h-[220px] rounded-full mx-auto md:mx-0 mt-12 md:mt-0" />
+            <img src="/selfie.webp" alt="Selfie image" className="lg:w-[350px] lg:h-[350px] md:w-[220px] md:h-[220px] rounded-full mx-auto md:mx-0 mt-12 md:mt-0" />
         </div>
       </div>
     </header>
