@@ -1,10 +1,10 @@
 const items = [
     {
       id: 1,
-      name: "Tips Calculator",
-      description: "In this application, you can select products from a menu, view the selected products, remove them, see the total, and add tip percentages.",
-      url: "https://tipscalcttaabs.netlify.app/",
-      backgroundImage: "tips.webp"
+      name: "Crust & Crumbs Bakery",
+      description: "This is a bakery application designed using a Figma template. The app uses React for component-based architecture, Tailwind CSS for responsive and customizable styling, React Router DOM for seamless navigation between different pages, and React Hook Form to handle form validation and user input effectively..",
+      url: "https://cc-bakery.netlify.app/",
+      backgroundImage: "Bakery.webp"
     },
     {
       id: 2,
