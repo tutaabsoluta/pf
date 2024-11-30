@@ -8,15 +8,15 @@ const items = [
     },
     {
       id: 2,
-      name: "Calorie Tracker",
-      description: "With this app, you can track the calories consumed and burned, view the details, and monitor the daily caloric balance.",
-      url: "https://calorietrackerttaabs.netlify.app/",
-      backgroundImage: "/calories.webp"
+      name: "T & J Recipes",
+      description: "This recipe app leverages TheMealDB API and it was build with React, TailwindCSS, React Router and Framer Motion . It allows users to search for specific recipes, explore unique dishes, and view detailed information, including ingredients and preparation steps.",
+      url: "https://tjrecipes.netlify.app/",
+      backgroundImage: "/recipe.webp"
     },
     {
       id: 3,
       name: "Patients Admin",
-      description: "In this application, you can manage patients through a form and, depending on their status, edit or delete their record.",
+      description: "In this application, you can manage patients through a form and, depending on their status, edit or delete their record. This app uses Zustand for Global State Management and React Hook Form for form validations.",
       url: "https://patientszustandtta.netlify.app/",
       backgroundImage: "/patients.webp"
     }
